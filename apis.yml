@@ -1,8 +1,31 @@
 aid: simr-s
-name: Simr S
-description: Simr S is a company surfaced as a portfolio company of earlybird and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Simr
+description: >-
+  Simr (a registered trademark of The UberCloud, Inc., based in Los Altos,
+  California) is a Simulation Operations Automation (SimOps) platform that
+  streamlines complex engineering simulations across the product-development
+  lifecycle. It provides self-service, automated infrastructure for running CFD,
+  FEA, multi-physics, and system-level simulations with major solvers such as
+  ANSYS, Abaqus, and COMSOL, deploying directly into customer-owned cloud
+  environments on AWS, Azure, and Google Cloud, or on-premises. Simr targets
+  enterprise manufacturers, reducing operational overhead for engineering teams
+  while keeping data control and compliance security-first. It was surfaced as a
+  portfolio company of Earlybird and profiled in the API Evangelist network; as
+  of this pass Simr publishes no public API, developer portal, SDK, or
+  machine-readable API surface.
 url: https://raw.githubusercontent.com/api-evangelist/simr-s/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.simr.com/hubfs/SIMR_Logo_FNL0324_RGB.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +34,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Simulation
+- SimOps
+- Simulation Operations
+- HPC
+- CAE
+- Engineering
+- Cloud
 apis: []
+common:
+- type: Website
+  url: https://www.simr.com
+- type: About
+  url: https://www.simr.com/about
+- type: Product
+  url: https://www.simr.com/product
+- type: Blog
+  url: https://blog.simr.com/
+- type: Support
+  url: https://www.simr.com/support
+- type: Contact
+  url: https://www.simr.com/contact
+- type: PrivacyPolicy
+  url: https://www.simr.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/sim-r/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
