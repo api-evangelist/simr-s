@@ -1,4 +1,4 @@
-# Simr S
+# Simr
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,72 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Simr S is a company surfaced as a portfolio company of earlybird and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Simr (a registered trademark of The UberCloud, Inc., based in Los Altos, California) is a Simulation Operations Automation (SimOps) platform that streamlines complex engineering simulations across the product-development lifecycle. It provides self-service, automated infrastructure for running CFD, FEA, multi-physics, and system-level simulations with major solvers such as ANSYS, Abaqus, and COMSOL, deploying directly into customer-owned cloud environments on AWS, Azure, and Google Cloud, or on-premises. Simr targets enterprise manufacturers, reducing operational overhead for engineering teams while keeping data control and compliance security-first. It was surfaced as a portfolio company of Earlybird and profiled in the API Evangelist network; as of this pass Simr publishes no public API, developer portal, SDK, or machine-readable API surface.
 
-Backed by: earlybird
+**Areas:** Company · Simulation · SimOps · Simulation Operations · HPC · CAE · Engineering · Cloud
+
+## Simr on APIs.io
+
+Everything profiled for Simr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/simr-s/](https://apis.io/providers/simr-s/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.simr.com)
+- [Support](https://www.simr.com/support)
+- [Blog](https://blog.simr.com/)
+- [Privacy policy](https://www.simr.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 6.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/simr-s/](https://apis.io/providers/simr-s/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Simr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/simr-s/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
